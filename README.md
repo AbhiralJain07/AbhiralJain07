@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 I am a Computer Science student specializing in **Artificial Intelligence & Machine Learning**.  
-I enjoy working on **real-world AI projects**, combining **machine learning, deep learning, and web technologies** to build practical solutions.
+I enjoy working on **real-world AI projects**, combining **machine learning and web technologies** to build practical solutions.
 
 I strongly believe in **learning by building**, and my GitHub reflects hands-on projects rather than just theory.
 
@@ -19,21 +19,17 @@ I strongly believe in **learning by building**, and my GitHub reflects hands-on 
 
 ### Programming & Data
 - Python
-- NumPy, Pandas
-- Data Cleaning & Analysis
+- Java + DSA
 - SQL (Basics)
 
 ### Machine Learning
 - Supervised & Unsupervised Learning
 - Regression, Classification
-- Model Evaluation & Optimization
-- scikit-learn
 
-### Deep Learning & AI
-- Neural Networks
-- CNN (Image Classification)
-- NLP Basics
-- Generative AI & LLM APIs (Learning)
+### Libraries
+- Numpy
+- Pandas
+- MatplotLib
 
 ### Web & Backend
 - HTML, CSS, JavaScript
@@ -62,16 +58,13 @@ A template-based project focused on traffic flow and system design concepts.
 
 🔹 **AI & ML Projects (Upcoming)**  
 - AI Chatbot using LLM APIs  
-- Resume Analyzer using NLP  
-- Image Classification Web App  
+- Resume Analyzer using NLP   
 - Student Performance Prediction  
-
 *(Currently building and deploying)*
 
 ---
 
 ## 📈 What I’m Currently Working On
-- Machine Learning & Deep Learning projects
 - LLM-based AI applications
 - AI + Web App integration
 - Building a strong AI-focused portfolio
@@ -80,7 +73,6 @@ A template-based project focused on traffic flow and system design concepts.
 
 ## 🎯 Career Goals
 - AI / ML Internship
-- Junior AI Engineer / Data Scientist role
 - Freelancing in AI & automation
 - Building AI-based SaaS products
 
