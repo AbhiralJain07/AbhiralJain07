@@ -1,88 +1,114 @@
 # Hi, I'm Abhiral Jain 👋
 
-🎓 Computer Science Engineering (AIML) Student  
-🤖 Aspiring AI / Machine Learning Engineer  
-💻 Passionate about building AI-powered web applications  
-🚀 Actively preparing for AI internships, jobs & freelancing
+Full-Stack Developer focused on AI-powered applications, scalable backend systems, and modern web technologies.
+
+I build real-world projects combining AI, web development, and system design principles to create practical and impactful software solutions.
 
 ---
 
-## 👨‍💻 About Me
-I am a Computer Science student specializing in **Artificial Intelligence & Machine Learning**.  
-I enjoy working on **real-world AI projects**, combining **machine learning and web technologies** to build practical solutions.
+## 🚀 About Me
 
-I strongly believe in **learning by building**, and my GitHub reflects hands-on projects rather than just theory.
+- 🎓 Computer Science Engineering (AIML) Student at VIT Bhopal University
+- 💻 Building full-stack applications using React, Flask, FastAPI, and modern web technologies
+- 🤖 Exploring AI systems, LLM integrations, and intelligent automation
+- ⚡ Interested in scalable architectures, backend engineering, and AI-driven products
+- 📚 Strong believer in learning through building and shipping projects
 
 ---
 
-## 🧠 Skills & Technologies
+## 🛠️ Tech Stack
 
-### Programming & Data
+### Languages
 - Python
-- Java + DSA
-- SQL (Basics)
+- Java
+- JavaScript
+- SQL
 
-### Machine Learning
-- Supervised & Unsupervised Learning
-- Regression, Classification
+### Frontend
+- HTML
+- CSS
+- React.js
 
-### Libraries
-- Numpy
-- Pandas
-- MatplotLib
-
-### Web & Backend
-- HTML, CSS, JavaScript
-- Flask / FastAPI
+### Backend
+- Flask
+- FastAPI
 - REST APIs
-- Authentication & Forms
+- Authentication Systems
+
+### AI & Data
+- NumPy
+- Pandas
+- Matplotlib
+- Machine Learning Fundamentals
+- NLP Basics
 
 ### Tools & Platforms
 - Git & GitHub
 - VS Code
-- Vercel / Render
 - Jupyter Notebook
+- Vercel
+- Render
 
 ---
 
 ## 🚀 Featured Projects
-Here are some of my highlighted works (more coming soon):
 
-🔹 **Brain Quest**  
-An interactive quiz and learning platform with dynamic UI and scoring system.  
-Tech: HTML, CSS, JavaScript  
-🔗 Live: https://brain-quest-jet.vercel.app/
+### 🔹 Brain Quest
+Interactive quiz and learning platform with dynamic UI, scoring system, and responsive design.
 
-🔹 **Traffic Management System**  
-A template-based project focused on traffic flow and system design concepts.
-
-🔹 **AI & ML Projects (Upcoming)**  
-- AI Chatbot using LLM APIs  
-- Resume Analyzer using NLP   
-- Student Performance Prediction  
-*(Currently building and deploying)*
+**Tech Stack:** HTML, CSS, JavaScript  
+🌐 Live Demo: https://brain-quest-jet.vercel.app/
 
 ---
 
-## 📈 What I’m Currently Working On
-- LLM-based AI applications
-- AI + Web App integration
-- Building a strong AI-focused portfolio
+### 🔹 AI-Based Test Evaluation System
+Full-stack platform designed to evaluate student tests using AI-assisted analysis, authentication systems, dashboards, and performance tracking.
+
+**Key Features**
+- Role-based authentication
+- AI-assisted evaluation
+- Performance analytics
+- Responsive dashboard
+- Backend API integration
+
+**Tech Stack:** React, Flask, Python, SQLite/MongoDB
 
 ---
 
-## 🎯 Career Goals
-- AI / ML Internship
-- Freelancing in AI & automation
-- Building AI-based SaaS products
+### 🔹 Real-Time Chat Application
+Responsive chat platform with authentication, messaging workflows, and scalable backend architecture.
+
+**Tech Stack:** React, Flask/FastAPI, APIs
+
+---
+
+## 📈 Current Focus
+
+- AI + Web Application Integration
+- LLM-powered Applications
+- Backend Engineering
+- Scalable Full-Stack Systems
+- Open Source Contributions
+
+---
+
+## 🎯 Goals
+
+- Software Engineering & AI Internships
+- Building production-grade applications
+- Contributing to impactful open-source projects
+- Developing AI-powered SaaS products
 
 ---
 
 ## 📫 Connect With Me
+
 - GitHub: https://github.com/AbhiralJain07
 - LinkedIn: https://www.linkedin.com/in/jainabhiral/
 - Email: jainabhiral7@gmail.com
 
 ---
 
-⭐ If you like my work, consider starring my repositories!
+## ⚡ Fun Fact
+
+I enjoy transforming ideas into scalable products by combining AI, backend systems, and interactive user experiences.
