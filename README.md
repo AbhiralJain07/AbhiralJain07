@@ -1,114 +1,86 @@
 # Hi, I'm Abhiral Jain 👋
 
-Full-Stack Developer focused on AI-powered applications, scalable backend systems, and modern web technologies.
+Full-Stack Developer building AI-powered, production-grade applications — from multi-tenant SaaS systems to immersive 3D web experiences.
 
-I build real-world projects combining AI, web development, and system design principles to create practical and impactful software solutions.
+I think in systems: I like understanding how things work end-to-end, then shipping them for real, not just prototyping.
 
 ---
 
-## 🚀 About Me
+## 🎓 About Me
 
-- 🎓 Computer Science Engineering (AIML) Student at VIT Bhopal University
-- 💻 Building full-stack applications using React, Flask, FastAPI, and modern web technologies
-- 🤖 Exploring AI systems, LLM integrations, and intelligent automation
-- ⚡ Interested in scalable architectures, backend engineering, and AI-driven products
-- 📚 Strong believer in learning through building and shipping projects
+- Computer Science Engineering (AI/ML) student at VIT Bhopal
+- Full-stack intern experience at Datatrack Automation and Quantumard Software Development
+- Former Research Team Lead at EvolVIT, VIT Bhopal's technical club
+- Building real products — multi-tenant systems, ML pipelines, and luxury 3D interfaces
+- Learning computer vision from scratch, currently deep in Computer Networks fundamentals
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- Java
-- JavaScript
-- SQL
+**Full-Stack**
+Next.js · React · Node.js · Express.js · TypeScript · MongoDB · PostgreSQL
 
-### Frontend
-- HTML
-- CSS
-- React.js
+**AI / ML**
+ViT · Wav2Vec2 · Whisper · Groq / LLaMA 3 · FastAPI
 
-### Backend
-- Flask
-- FastAPI
-- REST APIs
-- Authentication Systems
+**3D / Animation**
+Three.js · React Three Fiber · GSAP
 
-### AI & Data
-- NumPy
-- Pandas
-- Matplotlib
-- Machine Learning Fundamentals
-- NLP Basics
+**Deployment & Tools**
+Vercel · Render · Supabase · Git & GitHub
 
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- Vercel
-- Render
+**DSA**
+Java
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Brain Quest
-Interactive quiz and learning platform with dynamic UI, scoring system, and responsive design.
+### 🔹 Atithi VMS
+Multi-tenant Visitor Management System with role-based approval flows.
+**Stack:** React, Node.js/Express, MongoDB Atlas · Deployed on Vercel
 
-**Tech Stack:** HTML, CSS, JavaScript  
-🌐 Live Demo: https://brain-quest-jet.vercel.app/
+### 🔹 Deepfake Detection System
+Multimodal deepfake detector combining vision and audio models, served via API.
+**Stack:** ViT, Wav2Vec2, FastAPI
 
----
+### 🔹 CrashRisk
+Predictive aviation safety intelligence — ML-driven crash risk assessment.
+**Stack:** Python, Machine Learning · Deployed on Render
 
-### 🔹 AI-Based Test Evaluation System
-Full-stack platform designed to evaluate student tests using AI-assisted analysis, authentication systems, dashboards, and performance tracking.
+### 🔹 EvolVIT Club Platform
+Full backend + admin panel for VIT Bhopal's technical club — auth, media uploads, and content management.
+**Stack:** Node.js/Express, MongoDB Atlas, JWT, Cloudinary, Next.js admin panel
 
-**Key Features**
-- Role-based authentication
-- AI-assisted evaluation
-- Performance analytics
-- Responsive dashboard
-- Backend API integration
+### 🔹 Maeron Atelier & ASUR
+Luxury, scroll-driven 3D landing pages — self-contained frame-sequence animation and hybrid brand aesthetics.
+**Stack:** HTML/CSS/JS, custom frame-sequence rendering, GSAP
 
-**Tech Stack:** React, Flask, Python, SQLite/MongoDB
-
----
-
-### 🔹 Real-Time Chat Application
-Responsive chat platform with authentication, messaging workflows, and scalable backend architecture.
-
-**Tech Stack:** React, Flask/FastAPI, APIs
+### 🔹 Automated Meeting Documentation Pipeline
+Self-hosted pipeline that transcribes and summarizes meetings straight into Notion.
+**Stack:** n8n, Groq/LLaMA 3, Whisper, Notion API
 
 ---
 
 ## 📈 Current Focus
 
-- AI + Web Application Integration
-- LLM-powered Applications
-- Backend Engineering
-- Scalable Full-Stack Systems
-- Open Source Contributions
+- Computer Vision fundamentals
+- Multi-tenant system design (Atithi VMS)
+- Computer Networks (OSI, TCP/IP, signal encoding)
+- 3D web experiences with React Three Fiber
 
 ---
 
 ## 🎯 Goals
 
-- Software Engineering & AI Internships
-- Building production-grade applications
-- Contributing to impactful open-source projects
-- Developing AI-powered SaaS products
+- Full-stack / ML engineering internships and roles
+- Shipping production-grade, real-world software
+- Building AI-powered SaaS products
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/AbhiralJain07
-- LinkedIn: https://www.linkedin.com/in/jainabhiral/
+- LinkedIn: [in/jainabhiral](https://www.linkedin.com/in/jainabhiral/)
 - Email: jainabhiral7@gmail.com
-
----
-
-## ⚡ Fun Fact
-
-I enjoy transforming ideas into scalable products by combining AI, backend systems, and interactive user experiences.
